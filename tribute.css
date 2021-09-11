@@ -1,0 +1,31 @@
+#AynRand{
+    margin-left: 300px;
+    margin-right: 300px;
+    display: inline-block;
+    background-color: grey;
+}
+.name {
+    text-align: center;
+    line-height: 1;
+    font-family: 'Times New Roman',serif;
+}
+h1
+{
+    font-size: 100px;
+}
+.year{
+    font-size: 40px;
+    text-align: center;
+}
+img
+{
+    height: 400px;
+    width: 400px;
+}
+p{
+    font-size: 30px;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
